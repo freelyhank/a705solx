@@ -1,0 +1,3 @@
+/* Ivorane design system: the responsive shell (left rail, feed strip, ruled grid) lives in
+   styles.css, and each component carries its own scoped media queries. This file stays as a
+   one-line placeholder for the legacy import in main.js. */
